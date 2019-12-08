@@ -16,7 +16,7 @@
     3. Added GradCam
 
 ### #### Assignment4B_resnet_9019_CutOut.ipynb    
-    1. Keras Model with Cutout function from 
+    1. Keras Model with Cutout function from https://github.com/yu4u/cutout-random-erasing
     2. Accuracy = 90.19% 
-    3. Cutout code embedded from https://github.com/yu4u/cutout-random-erasing 
+
    
