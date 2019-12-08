@@ -1,5 +1,7 @@
 # EIP4_Session4
 ## -------------------------------------------------------------
+## Assignment 4A annotations completed online
+
 ## #########Model details##########    
     Model Used: ResNet38v2 (n=4 and version=2)
     Total params: 1,123,914
